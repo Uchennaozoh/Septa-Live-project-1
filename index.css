@@ -1,0 +1,113 @@
+/*BASE STYLE*/
+.body {
+    margin-top: 0;
+}
+
+/*HEADER*/
+.heading {
+    text-align: center;
+    font-size: 120px;
+   
+}
+
+.p1 {
+    
+    font-size: 75px;
+    text-align: center;
+    bottom: -40px;
+    font-style: italic;
+    margin-top: -100px;
+}
+
+.first-paragraph {
+    text-align: center;
+    font-size: 35px;
+    margin-top: -70px;
+}
+
+.nav-1 {
+    margin-left: 50px;
+    font-size: 20px;
+    color: blueviolet
+}
+
+.pragraph-1 {
+    ;
+}
+
+.intro {
+    font-size: 20px;
+    margin-left: -100px;
+    color: black;
+}
+
+.intro-1 {
+    font-size: 20px;
+    color: black;
+}
+
+.main {
+   font-size: 42px;
+}
+
+.main-p {
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.about-img {
+    width: 100%;
+}
+
+.project {
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+} 
+
+.yes {
+    display: flex;
+    width: 100%;
+}
+ .img-1 {
+    display: block;
+    width: 50%;
+ }
+.img-2{
+    display: block;
+    width: 50%;
+    height: 700px;
+}
+
+.contact {
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.pitch {
+    color: black;
+}
+.contact-img {
+    width: 100%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    width: 1150px;
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto; /*helps the footer stick to the bottom of the page*/
+    margin-top: 45px;
+}
+
+.link-item {
+
+}
+
+
+
+
